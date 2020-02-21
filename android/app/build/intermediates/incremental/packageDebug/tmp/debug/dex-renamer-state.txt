@@ -1,4 +1,4 @@
-#Wed Feb 19 13:02:06 BRT 2020
+#Fri Feb 21 15:25:19 BRT 2020
 base.0=C\:\\Users\\Caio Ronan\\Desktop\\modulo\\modulo\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
